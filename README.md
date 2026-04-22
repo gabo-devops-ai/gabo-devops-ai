@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **Gabo — Senior DevOps, AI & Platform Engineer**
+# 🚀 **Gabo — Senior DevOps & AI Platform Engineer**
 
 ![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops-ai.png)
 
